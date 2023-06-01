@@ -6,5 +6,6 @@ language uses : HTML, CSS, JS
 
 HOSTED Link - https://callforhack.github.io/STOPWATCH/
 
-![image](https://github.com/CALLforHACK/STOPWATCH/assets/88625027/3694a68b-9c92-46d1-a311-feca5027c7e7)
+![image](https://github.com/CALLforHACK/STOPWATCH/assets/88625027/6042cd5d-39e1-43cd-9aea-ce1a50e16ade)
+
 
